@@ -1,0 +1,6 @@
+# YAML-based hardware schema example
+hardware:
+  cpu: Intel
+  ram: 16GB
+  disk: SSD
+  os: Windows 10

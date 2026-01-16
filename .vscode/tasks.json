@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run aging-cookies-v3",
+			"type": "shell",
+			"command": "python main.py",
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Run aging-cookies-v3",
+			"type": "shell",
+			"command": "python main.py",
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
